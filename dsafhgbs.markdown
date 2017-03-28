@@ -1,16 +1,3 @@
----
-title: "Untitled"
-author: "Nastya"
-date: "March 28, 2017"
-output: html_document
----
-
----
-#title: "CV"
-#author: "Nastya"
-#date: "March 27, 2017"
-#output: html_document
----
 <br><br>
 <center>**Anastasiia Onyshchenko**</center>   
 <center>1219 N Storer Ave, apt.64 </center>
