@@ -3,8 +3,7 @@ CV
 Nastya
 March 27, 2017
 
-<br><br>
-<center> **Anastasiia Onyshchenko**</center> <br>
+<p style="text-align: center;"> **Anastasiia Onyshchenko** </p> <br>
 <center> 1219 N Storer Ave, apt.64 </center><br>
 <center> 72703 Fayetteville, USA </center> <br>
 <center> Mobile phone: +1(479)684-6185 </center><br>
