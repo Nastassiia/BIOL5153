@@ -10,15 +10,10 @@ March 27, 2017
 <center>
 1219 N Storer Ave, apt.64
 </center>
-<center>
-72703 Fayetteville, USA
-</center>
-<center>
-Mobile phone: +1(479)684-6185
-</center>
-<center>
-E-mail: <onyshchenko.ana@gmail.com>
-</center>
+<center> 72703 Fayetteville, USA </center>
+<center> Mobile phone: +1(479)684-6185 </center>
+<center> E-mail: <onyshchenko.ana@gmail.com> </center>
+
 #### **Education**
 
 <table style="width:71%;">
