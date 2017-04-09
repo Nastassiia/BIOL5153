@@ -1,0 +1,53 @@
+---
+#title: "CV"
+#author: "Nastya"
+#date: "March 27, 2017"
+#output: html_document
+---
+<br><br>
+<center>**Anastasiia Onyshchenko**</center>   
+<center>1219 N Storer Ave, apt.64 </center>
+<center>72703 Fayetteville, USA</center>
+<center>Mobile phone: +1(479)684-6185</center>
+<center>E-mail: onyshchenko.ana@gmail.com</center>
+
+####**Education**
+|                   |                     |
+|-----------------|--------------------------------|
+|**08.2016-present**| University of Arkansas, Fayetteville <br>**Master degree** in Cell and Molecular Biology|
+|**09.2016-06.2016**| <br>Taras Shevchenko National University of Kyiv <br>**Bachelor degree** in Molecular Biology |
+|**2008-2012**| <br>Kyiv Natural-Scientific Lyceum No. 145 with honors |
+####**Research experience**
+|                   |                     |
+|-----------------|------------------------------------|
+|**03.2014-08.2014**| Institute of Molecular Biology and Genetics (IMBG)<br> Department of Biosynthesis of Nucleic Acids <br> Group leader: Professor **Vadim Kavsan**, Dr. Sci (Biol.)|
+|**09.2014-06.2015**| <br>Palladin institute of Biochemistry<br>Department of Muscle Biochemistry <br> Group leader: Professor **Serhiy Kosterin**, Dr. Sci (Biol.) |
+|**Project:**| <br>Investigation of the Gibbs-Donnan potential on plasma <br>membrane vesicles |
+|**03.2015-07.2016**| <br>Institute of Molecular Biology and Genetics (IMBG)<br> Laboratory of System Biology <br> Group leader: Professor **Maria Obolens’ka**, Dr. Sci (Mol. Biol.)|
+|**Project:<br>(Bachelor thesis)**| <br>Investigation of ISGylation-related genes expression in rat liver after partial hepatectomy and laparotamy |
+|**09.2016-present**| <br> University of Arkansas, Fayetteville <br> Alverson lab <br> Principal investigator: **Andrew J Alverson**|
+|**Project:**|<br> Annotation of genome from non-photosynthetic diatom Nitschia sp.|
+|**Skills and techniques**|<br> Chromatin immunoprecipitation, western blot, real-time PCR; preparation of competent cells and transformation; R, bash and basic python programming|
+####**Schools**
+|                   |                     |
+|-----------------|-----------------------------------|
+|**04.2015**|9th Student School "Biophysical Methods of Research" <br>Bogomoletz Institute of Physiology NAS of Ukraine|
+|**06.2015**|<br> 2nd Computational Biology School Lesya Ukrainka Eastern European University, Biological faculty, Lutsk (Ukraine)|
+|**29.05-4.06.2015**| <br>3d Carpathian Summer Biochemical School “Stress, Aging and Free Radicals” Vasyl Stefanyk Precarpathian National University Ivano-Frankivsk (Ukraine)|
+####**Abstracts**
+|    |    |
+|-----------------|-------------------------------------|
+|**11.2015**|Onyshchenko A, Obolenskaya M. (2015), Transcription factor binding sites in promoters of ISGylation-related genes, Abstracts of the Second Congress “Medical and Biological Informatics and Cybernetics”, P(100); Kyiv, Ukraine|
+####**Awards and achievements**
+|    |    |
+|-----------------|-------------------------------------|
+|**08.2016-06.2018**|Fulbright scholarship to accomplish masters degree at University of Arkansas, Fayetteville|
+|**Languages**|<br>English (IELTS -7.5 , TOEFL -102), Ukrainian (native), Russian (native)<br> **GRE general.** Quantitive -164, Verbal -157, Analytical writing -3.5|
+<br><br>
+
+
+
+
+
+
+
