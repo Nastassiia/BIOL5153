@@ -3,11 +3,7 @@ import csv
 fasta_file=open("watermelon.fsa", 'r')
 fasta_line=fasta_file.readlines()[1]
 
-<<<<<<< HEAD
-names_list=['exon', 'intron', 'misc_feature', 'rRNA', 'repeat_region', 'tRNA']
-=======
 names_list=['CDS', 'intron', 'misc_feature', 'rRNA', 'repeat_region', 'tRNA']
->>>>>>> f2f34e4e31fe2315f7ffbf8b2fc545d9debf22c6
 strings_list=['exon_string', 'intron_string', 'misc_string','rRNA_string', 'repeats_string', 'tRNA_string']
 for i in range(0,len(strings_list)):
     strings_list[i]=""
