@@ -1,6 +1,16 @@
-#! /usr/bin/env python3.5
+#!/usr/bin/env python3.6
+
 import csv
-fasta_file=open("watermelon.fsa", 'r')
+import sys 
+
+usage=sys.argv[0]+":genome.fasta features.gff"
+
+if len(sys.argv)<3: 
+    print(usage)
+    sys.exit("\nThis script requires both a FASTA file and a GFF file\n")
+    
+
+fasta_file=open(sys.argv[1], 'r')
 fasta_line=fasta_file.readlines()[1]
 
 names_list=['CDS', 'intron', 'misc_feature', 'rRNA', 'repeat_region', 'tRNA']
@@ -8,7 +18,7 @@ strings_list=['exon_string', 'intron_string', 'misc_string','rRNA_string', 'repe
 for i in range(0,len(strings_list)):
     strings_list[i]=""
 
-with open('watermelon.gff', 'r') as csvfile:
+with open(sys.argv[2], 'r') as csvfile:
     line=csv.reader(csvfile, delimiter="\t")
     for row in line:
         if row[2]==names_list[0]:
@@ -44,8 +54,14 @@ def GC_count(string):
     return percent
             
 for i in range(0,len(strings_list)):
-    print(names_list[i],'\t',len(strings_list[i]),'\t', str(round(len(strings_list[i])/len(fasta_line)*100,2))+'%'\
-          , '\t',GC_count(strings_list[i]))
+    print(names_list[i],'\t',len(strings_list[i]),'\t', str(round(len(strings_list[i])/len(fasta_line)*100,2))+'%'          , '\t',GC_count(strings_list[i]))
     
 print(len(fasta_line))    
+
+            
+        
+        
+
+
+
 
