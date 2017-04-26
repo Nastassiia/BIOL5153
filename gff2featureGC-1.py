@@ -52,9 +52,20 @@ def GC_count(string):
     count=sum(string.count(x) for x in ("G","g","C","c"))
     percent=round(count/len(string)*100,2)
     return percent
+
+
+def N_count(string, N):
+    l=len(string)
+    string=string.upper()
+    numb=round(string.count(N)/l,2)
+    return numb
+    
             
 for i in range(0,len(strings_list)):
-    print(names_list[i],'\t',len(strings_list[i]),'\t', str(round(len(strings_list[i])/len(fasta_line)*100,2))+'%'          , '\t',GC_count(strings_list[i]))
+    print(names_list[i],'\t',len(strings_list[i]),'\t', str(round(len(strings_list[i])/len(fasta_line)*100,2))+'%' , '\t',GC_count(strings_list[i]))
+    print(names_list[i], '\t', "A content:", N_count(strings_list[i], "A"), '\t',  "T content:", N_count(strings_list[i], "T"), '\t',  "G content:", \
+N_count(strings_list[i], "G"), '\t',  "C content:", N_count(strings_list[i], "C") )
+
     
 print(len(fasta_line))    
 
